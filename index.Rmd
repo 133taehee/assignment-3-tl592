@@ -1,0 +1,13 @@
+---
+title: "Our Webpage"
+output: html_document
+---
+
+## Authors
+
+[Taehee Lee](https://github.com/133taehee)
+[Adam Santoro]()
+
+## Image
+
+![Figure 1: AI-Controlled Bulletproof Grizzly Bear](https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_965/7a47bae768791a28e0c97bbd8644442c.jpg)
