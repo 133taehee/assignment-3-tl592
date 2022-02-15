@@ -3,7 +3,7 @@ title: "Taehee"
 output: html_document
 ---
 
-# Information
+## Information
 
 - Educational interests:
   + Cellular bioengineering
