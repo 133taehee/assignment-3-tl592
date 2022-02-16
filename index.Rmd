@@ -6,12 +6,11 @@ output: html_document
 ## Authors
 
 [Taehee Lee](https://github.com/133taehee)
-<<<<<<< HEAD
-[Adam Santoro](https://github.com/SantoroA1)
-=======
+
 <br>
-[Adam Santoro]()
->>>>>>> 6782f7a2c3066f342ed25f918f2b95162a7e329f
+
+[Adam Santoro](https://github.com/SantoroA1)
+
 
 ## Image
 
