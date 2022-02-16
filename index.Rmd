@@ -6,6 +6,7 @@ output: html_document
 ## Authors
 
 [Taehee Lee](https://github.com/133taehee)
+<br>
 [Adam Santoro]()
 
 ## Image
