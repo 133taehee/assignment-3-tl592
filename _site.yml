@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Taehee Lee"
+      href: taehee.html
+    - text: "Adam Santoro"
+      href: adam.html  
