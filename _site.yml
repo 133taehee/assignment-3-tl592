@@ -1,5 +1,5 @@
-output_dir: "."
 navbar:
+  title: "Our Webpage"
   left:
     - text: "Home"
       href: index.html
@@ -7,3 +7,10 @@ navbar:
       href: taehee.html
     - text: "Adam Santoro"
       href: adam.html  
+output_dir: "."
+output:
+  html_document:
+    theme: united
+    highlight: tango
+    toc: true 
+    toc_float: true 
